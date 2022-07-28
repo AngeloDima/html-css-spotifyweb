@@ -119,7 +119,8 @@
 
 .Card{
     gap: 15px;
-    margin: 0px 30px;
+    margin: 0px 10px 0px 10px;
+    
 }
 
 
@@ -221,7 +222,7 @@
     }
 
     .Blocco{
-        width: calc(90% / 2);
+        width: calc(92% / 2);
         height: 25vh;
     }
 
@@ -249,7 +250,7 @@
     }
 
     .Blocco{
-        width: calc(100% / 3);
+        width: calc(90% / 2);
     }
     
 
