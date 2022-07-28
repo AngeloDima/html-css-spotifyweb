@@ -47,6 +47,13 @@
     background-color: #95a5a6;
 }
 
+.SX2{
+    width: 5%;
+    height: 100%;
+    background-color: #36127a;
+    display: none;
+}
+
 .DX{
     width: 85%;
     height: 100%;
@@ -156,8 +163,20 @@
 
 
 
+
+
+
+
 /* L */
 @media screen and (max-width: 1000px){
+
+    .Scritte {
+        gap: 20px 40px;
+        flex-wrap: wrap;
+        margin: 60px 0px 0px 0px;
+    }
+
+
 
     .Card{
         flex-wrap: wrap;
@@ -171,8 +190,21 @@
 
 
 
+
+
+
+
 /* S */
 @media screen and (max-width: 750px){
+
+
+    .Scritte {
+        gap: 20px 60px;
+        flex-wrap: wrap;
+        margin: 60px 0px 0px 0px;
+    }
+
+
 
     .Card{
         flex-wrap: wrap;
@@ -183,6 +215,9 @@
     }
     
 }
+
+
+
 
 
 
