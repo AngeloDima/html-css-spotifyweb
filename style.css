@@ -99,7 +99,7 @@
 
 
 
-
+/* ****Centro**** */
 
 .Scritte{
     justify-content: center;
@@ -144,7 +144,27 @@
 
 
 
+/* ****Menù a Sinistra**** */
 
+
+
+.Logo{
+    width: 100%;
+    height: 20vh;
+    background-color: red;
+}
+
+.nav{
+    width: 100%;
+    height: 20vh;
+    background-color: rgba(255, 0, 0, 0.562);
+}
+
+.playlist{
+    width: 100%;
+    height: 20vh;
+    background-color: rgb(88, 1, 1);
+}
 
 
 
