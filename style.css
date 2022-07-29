@@ -173,10 +173,17 @@ a{
 .nav{
     width: 100%;
     background-color: rgba(255, 0, 0, 0.562);
+    margin-left: 10px;
+}
+
+.nav img{
+    max-width: 15%;
 }
 
 .nav a{
-
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
 }
 
 
@@ -188,6 +195,20 @@ a{
 .playlist{
     width: 100%;
     background-color: rgb(88, 1, 1);
+    margin-left: 10px;
+}
+
+.playlist a{
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    margin: 15px 0px 0px 0px;
+}
+
+.playlist svg{
+    max-width: 15%;
+    fill: white;
+    margin-right: 10px;
 }
 
 
