@@ -51,6 +51,7 @@ a{
     width: 15%;
     height: 100%;
     background-color: #95a5a6;
+    position: relative;
 }
 
 .SX2{
@@ -209,6 +210,32 @@ a{
     max-width: 15%;
     fill: white;
     margin-right: 10px;
+}
+
+
+
+.Utente{
+    width: 90%;
+    
+    background-color: blueviolet;
+    position: absolute;
+    bottom: 0;
+
+}
+
+.install-app{
+    background-color: red;
+    align-items: flex-end;
+    border-bottom: 2px solid black;
+    margin-left: 10px;
+   
+}
+
+.nome-utente{
+    background-color: rgb(121, 0, 0);
+    align-items: flex-end;
+    margin-left: 10px;
+   
 }
 
 
