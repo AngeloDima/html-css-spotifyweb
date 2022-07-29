@@ -172,7 +172,7 @@ a{
 
 
 .nav{
-    width: 100%;
+    width: 94%;
     background-color: rgba(255, 0, 0, 0.562);
     margin-left: 10px;
 }
@@ -194,16 +194,23 @@ a{
 
 
 .playlist{
-    width: 100%;
+    width: 94%;
     background-color: rgb(88, 1, 1);
     margin-left: 10px;
 }
+
+
+
+.playlist h3{
+    margin: 15px 0px 0px 0px;
+}
+
 
 .playlist a{
     display: flex;
     align-items: center;
     font-size: 1.2rem;
-    margin: 15px 0px 0px 0px;
+    margin: 10px 0px 0px 0px;
 }
 
 .playlist svg{
@@ -211,6 +218,13 @@ a{
     fill: white;
     margin-right: 10px;
 }
+
+
+
+
+
+
+
 
 
 
