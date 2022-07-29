@@ -239,6 +239,16 @@ a{
 }
 
 
+.nome-utente img{
+    max-width: 15%;
+    background: aqua;
+    border-radius: 50%;
+}
+.nome-utente h4{
+    width: 100%;
+}
+
+
 
 
 
