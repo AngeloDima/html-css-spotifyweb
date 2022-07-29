@@ -50,7 +50,7 @@ a{
 .SX{
     width: 15%;
     height: 100%;
-    background-color: #95a5a6;
+    background-color: #080b12;
     position: relative;
 }
 
@@ -65,6 +65,7 @@ a{
     width: 85%;
     height: 100%;
     overflow-y: auto;
+    
 }
 
 
@@ -75,15 +76,16 @@ a{
 .DX-UP{
     width: 100%;
     height: 10%;
-    background-color: #3a6fa3;
-    filter: opacity(0.3);
+    background-color: #080b12;
+    filter: opacity(0.8);
     position: fixed;
-    padding-top: 6%;
+    justify-content: end;
+    /* padding-top: 6%; */
 }
 
 .DX-DOWN{
     flex-grow: 1;
-    background-color: #2c3e50;
+    background-color: #202836;
     flex-wrap: nowrap;
 }
 
@@ -158,7 +160,7 @@ a{
 .Logo{
     width: 100%;
     height: 10vh;
-    background-color: red;
+    /* background-color: red; */
     align-items: center;
     justify-content: center;
 }
@@ -173,7 +175,7 @@ a{
 
 .nav{
     width: 94%;
-    background-color: rgba(255, 0, 0, 0.562);
+    /* background-color: rgba(255, 0, 0, 0.562); */
     margin-left: 10px;
 }
 
@@ -195,7 +197,7 @@ a{
 
 .playlist{
     width: 94%;
-    background-color: rgb(88, 1, 1);
+    /* background-color: rgb(88, 1, 1); */
     margin-left: 10px;
 }
 
@@ -231,14 +233,14 @@ a{
 .Utente{
     width: 90%;
     
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
     position: absolute;
     bottom: 0;
 
 }
 
 .install-app{
-    background-color: red;
+    /* background-color: red; */
     align-items: flex-end;
     border-bottom: 2px solid black;
     margin-left: 10px;
@@ -246,7 +248,7 @@ a{
 }
 
 .nome-utente{
-    background-color: rgb(121, 0, 0);
+    /* background-color: rgb(121, 0, 0); */
     align-items: flex-end;
     margin-left: 10px;
    
@@ -261,6 +263,42 @@ a{
 .nome-utente h4{
     width: 100%;
 }
+
+
+
+
+
+
+/* ****Menù a destra UP**** */
+
+.Upgrade{
+    width: 40%;
+    height: 100%;
+    /* background-color: red; */
+    margin-right: 16.2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
