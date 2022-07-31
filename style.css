@@ -134,6 +134,7 @@ a{
     background-color: #080b12;
     filter: opacity(0.8);
     position: fixed;
+    z-index: 500;
     justify-content: end;
     /* padding-top: 6%; */
 }
