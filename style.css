@@ -399,8 +399,13 @@ a{
     .Blocco{
         width: calc(90% / 4);
         height: 20vh;
+    }
+
+
+    .Blocco:nth-child(1){
         margin-bottom: 15%;
     }
+
 
     .SX {
         width: 30%;
