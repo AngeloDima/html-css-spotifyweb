@@ -505,7 +505,19 @@ a{
 .Footer-DX{
     width: 20%;
     height: 100%;
-    background-color: red;
+    /* background-color: red; */
+}
+
+
+.Footer-DX svg{
+    transform: scale(0.5);
+}
+
+.Footer-DX input{
+    width: 8vw;
+    margin-right: 15px;
+    transform: scaleY(0.7);
+    
 }
 
 
