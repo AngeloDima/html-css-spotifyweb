@@ -14,6 +14,11 @@ a{
 }
 
 
+svg{
+    fill: white;
+}
+
+
 
 
 /* ****EFFECT**** */
@@ -141,7 +146,7 @@ a{
 
 .DX-DOWN{
     flex-grow: 1;
-    background-color: #202836;
+    background-color: #141922;
     flex-wrap: nowrap;
 }
 
@@ -154,6 +159,7 @@ a{
     height: 10vh;
     background-color: #282828;
     justify-content: space-between;
+    align-items: center;
 }
 
 /* ***Contenitori Principali END*** */
@@ -248,6 +254,7 @@ a{
     /* background-color: red; */
     align-items: center;
     justify-content: center;
+    margin-left: -10px;
 }
 
 .Logo img{
@@ -261,7 +268,7 @@ a{
 .nav{
     width: 94%;
     /* background-color: rgba(255, 0, 0, 0.562); */
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .nav img{
@@ -285,7 +292,7 @@ a{
 .playlist{
     width: 94%;
     /* background-color: rgb(88, 1, 1); */
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 
@@ -457,7 +464,7 @@ a{
 
 .Footer-MD{
     width: 45%;
-    height: 100%;
+    height: 70%;
     /* background-color: red; */
 }
 
@@ -487,47 +494,10 @@ a{
     width: 75%;
 }
 
-.Footer-MD-DOWN h5, p{
+.Footer-MD-DOWN h5{
     align-self: center;
     margin: 0 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -544,7 +514,7 @@ a{
 
 
 .Footer-DX svg{
-    transform: scale(0.5);
+    transform: scale(0.4);
 }
 
 .Footer-DX input{
