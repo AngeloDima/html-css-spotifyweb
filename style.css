@@ -124,6 +124,7 @@ a{
     width: 100%;
     height: 10vh;
     background-color: #7f8c8d;
+    justify-content: space-between;
 }
 
 /* ***Contenitori Principali END*** */
@@ -355,6 +356,38 @@ a{
 
 
 
+
+
+
+
+
+
+
+/* *******Footer****** */
+
+
+
+.Footer-SX{
+    width: 20%;
+    height: 100%;
+    background-color: red;
+}
+
+
+
+.Footer-MD{
+    width: 45%;
+    height: 100%;
+    background-color: red;
+}
+
+
+
+.Footer-DX{
+    width: 20%;
+    height: 100%;
+    background-color: red;
+}
 
 
 
